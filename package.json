@@ -1,0 +1,20 @@
+{
+  "name": "olam",
+  "version": "1.0.0",
+  "description": "An unofficial NPM package for searching words in the Olam dictionary (Supports malayalam and english).",
+  "start": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dictionary",
+    "malayalam",
+    "english",
+    "olam"
+  ],
+  "author": "TOXIC-DEVIL",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
